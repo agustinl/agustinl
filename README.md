@@ -1,6 +1,5 @@
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinl&show_icons=true" alt="agustinl" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinl&layout=compact&hide=html" alt="agustinl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinl&show_icons=true" alt="agustinl" /></p>
 
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
