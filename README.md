@@ -3,7 +3,7 @@
 -->
 ### Agustín Encaje
 
-Web Developer at [@lenovo](https://www.lenovo.com/)
+Frontend Engineer 👨‍💻
 
 [Projects](https://www.agustinl.com?ref=gh)
 
